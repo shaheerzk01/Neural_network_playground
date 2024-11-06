@@ -24,4 +24,5 @@ Neural Network Playground is an interactive React-based web application that ena
    ```bash
    git clone https://github.com/yourusername/neural-network-playground.git
    cd neural-network-playground
-![Neural Network Playground Screenshot](assets/Screenshot 2024-11-06 at 3.31.26 PM.png)
+![Neural Network Playground Screenshot](assets/Screenshot1.png)
+![Neural Network Playground Screenshot](assets/Screenshot2.png)
